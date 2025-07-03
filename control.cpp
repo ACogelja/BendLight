@@ -34,6 +34,7 @@ private:
 
 };
 
+
 UR5Move::UR5Move(ros::NodeHandle& nh)
     : nodeHandle_(nh)
 {
